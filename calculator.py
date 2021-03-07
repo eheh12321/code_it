@@ -13,3 +13,6 @@ def multiply(a,b):
 def divide(a,b):
     return a/b
 
+def get_remainder(a,b):
+    return a//b
+
